@@ -145,3 +145,35 @@ To achieve this:
 
     AI relies on advanced algorithms, large datasets, and robust processing capabilities.
     Example: Using loops, conditionals, and mathematical functions to adjust a machine-learning model’s weights iteratively.
+
+# Chatbot
+
+    If student says hello
+        Say hello back
+    Else if student says goodbye
+        Say goodbye back
+    Else if student asks how you are
+        Say you're well
+    Else if student asks why 111 in binary is 7 is decimal
+        ...
+
+and so on... its hard to write an algorithm for AI and to anticipatre all questions surly there is other ways to write algorithms to allow chatbot to be fed in inputs and figure out how to answer our questions.
+
+# LLM
+
+wtf is LLM
+
+# Hello, World
+
+it is first program that programmer typicaly will write. it represents data and insctructions, ultimatly, data like H-E-L-L-O, comma, W-O-R-L-D
+and instruction like, "Print that data to the screen.". As for what these patterns of 0 and 1's are.
+
+to view binary more abstractly.
+
+# Scratch
+
+web based edittor.
+
+scratch.mit.edu
+
+mental model of programming to connect it into perspective input --> algorithm --> output
