@@ -84,19 +84,20 @@ It's the bridge between human ideas and machine execution.
 So pseudocode has no formal meaning. Generally, you write it in English or whatever your own human language is.
 But you write your thoughts down tersely, succinct, but precisely. You try to really convey your thoughts, not with a wave of the hand, metaphorically, but step by step, precisely. 
 
-1. Pick up phone book
-2. Open to middle of phone book
-3. Look at page
-4. If person is on page
-5.      Call person
-6. Else if person is earlier in book
-7.      Open to middle of left half of book
-8.      Go back to line 3
-9. Else if person is letter in book
-10.     Open to middle of right half of book
-11.     Go back to line 3
-12. Else
-13.     Quit
+1. Pick up the phone book  
+2. Open to the middle of the book  
+3. Look at the page  
+4. If the person is on the page  
+       Call the person  
+5. Else if the person is earlier in the book  
+       Open to the middle of the left half of the book  
+       Go back to step 3  
+6. Else if the person is later in the book  
+       Open to the middle of the right half of the book  
+       Go back to step 3  
+7. Else  
+       Quit  
+
 
 This is just one way to write pseudocode.
 Technicaly speaking this is functions.
