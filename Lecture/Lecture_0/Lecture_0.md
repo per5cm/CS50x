@@ -78,3 +78,70 @@ What is an Algorithm?
 
 Code: The implementation of algorithms in a programming language.
 It's the bridge between human ideas and machine execution.
+
+# Pseudocode
+
+So pseudocode has no formal meaning. Generally, you write it in English or whatever your own human language is.
+But you write your thoughts down tersely, succinct, but precisely. You try to really convey your thoughts, not with a wave of the hand, metaphorically, but step by step, precisely. 
+
+1. Pick up phone book
+2. Open to middle of phone book
+3. Look at page
+4. If person is on page
+5.      Call person
+6. Else if person is earlier in book
+7.      Open to middle of left half of book
+8.      Go back to line 3
+9. Else if person is letter in book
+10.     Open to middle of right half of book
+11.     Go back to line 3
+12. Else
+13.     Quit
+
+This is just one way to write pseudocode.
+Technicaly speaking this is functions.
+
+# Conditionals
+
+Conditionals are decision-making structures in programming.
+
+    They ask True/False questions to determine which block of code to execute.
+    Examples:
+        If-else statements:
+
+        If the phone is ringing:  
+    Answer the call  
+Else:  
+    Continue reading  
+
+
+# Loops
+
+Loops are used to repeat steps until a condition is met.
+
+Examples of Loops in Pseudocode:
+
+    While loop: Repeats as long as a condition is True.
+
+    While there are unread messages:  
+    Read the next message  
+
+    For loop: Repeats a set number of times.
+
+    For each page in the book:  
+    Check if the person is on the page  
+
+
+
+# Artificial intelligence
+
+AI requires more building blocks than just basic 8-bit logic because it deals with complex, often abstract problems, such as:
+
+    Recognizing patterns (e.g., faces, voices).
+    Learning from data (e.g., neural networks).
+    Making predictions or decisions in uncertain environments.
+
+To achieve this:
+
+    AI relies on advanced algorithms, large datasets, and robust processing capabilities.
+    Example: Using loops, conditionals, and mathematical functions to adjust a machine-learning model’s weights iteratively.
